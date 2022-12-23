@@ -28,4 +28,4 @@ http://yaroslavvb.blogspot.sg/2011/09/notmnist-dataset.html
 В качестве данных было выбрано маленкий набор данных
 .
 ##### Отображение несколько изображений из набора данных.
-![](https://drive.google.com/file/d/19jLaD-kgkAqrM7rHHtz13ixdCG2RduwT/view?usp=share_link)
+[![Вывод несколько изображений из набора данных](https://drive.google.com/file/d/19jLaD-kgkAqrM7rHHtz13ixdCG2RduwT/view?usp=share_link "Вывод несколько изображений из набора данных")](https://drive.google.com/file/d/19jLaD-kgkAqrM7rHHtz13ixdCG2RduwT/view?usp=share_link "Вывод несколько изображений из набора данных")
